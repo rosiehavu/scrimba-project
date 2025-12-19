@@ -7,3 +7,9 @@ Sign up through this [affiliate link](https://scrimba.com/?via=u429925c) to earn
 - [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
 
 Happy Coding!
+
+# About this repo
+In this repo, I posted all projects I've practiced throghout my learning journey. 
+Currently studying:
+- Fullstack engineering
+- Data structures & Algorithms
