@@ -17,3 +17,7 @@ The Fullstack Developer Path aims to teach you everything you need to become a J
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+
+# How to add to Chrome Extension 
+1. Open chrome://extensions (or [your-browser-name]://extensions)
+2. Turn on "Developer mode"
