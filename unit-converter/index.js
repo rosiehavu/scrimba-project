@@ -1,5 +1,6 @@
 const unitInput = document.getElementById("input-el")
 const convertBtn = document.getElementById("convert-btn")
+const resetBtn = document.getElementById("reset-btn")
 const lengthResult = document.getElementById("length-result")
 const volumeResult = document.getElementById("volume-result")
 const massResult = document.getElementById("mass-result")
@@ -32,3 +33,7 @@ unitInput.addEventListener('keypress', (e) => {
 });
 
 convertUnits();
+
+resetBtn.addEventListener("click", function() {
+    window.location.reload()
+})
